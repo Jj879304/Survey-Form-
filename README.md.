@@ -1,0 +1,24 @@
+# Survey Form Project
+
+This is a simple **Survey Form** built as part of the [freeCodeCamp Responsive Web Design Certification](https://www.freecodecamp.org/).  
+It was created to practice **HTML5** and **CSS3** fundamentals such as forms, inputs, labels, and responsive layouts.
+
+## 🚀 Live Demo
+👉 [View Survey Form](https://jj879304.github.io/survey-form/)  
+
+## 🛠️ Built With
+- HTML5  
+- CSS3 (Flexbox, Responsive Design)  
+
+## 🎯 Features
+- User-friendly form layout  
+- Required and optional fields  
+- Responsive design (works on mobile & desktop)  
+
+## 📖 Lessons Learned
+- How to structure a form with `input`, `textarea`, `select`, and `radio/checkbox`.  
+- Importance of labels and accessibility.  
+- How to style forms cleanly with CSS.  
+
+---
+👨‍💻 *Project by [Jj879304](https://github.com/Jj879304)*
